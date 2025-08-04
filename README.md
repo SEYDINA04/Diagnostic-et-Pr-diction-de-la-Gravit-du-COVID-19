@@ -1,4 +1,4 @@
-# 🦠 Projet IA : Diagnostic et Prédiction de la Gravité du COVID-19
+# 🦠 Projet IA :Diagnosis of COVID-19 and its clinical spectrum
 
 Ce projet a été réalisé à partir d’un jeu de données médicales fourni par l’hôpital Israelita Albert Einstein (Brésil), disponible sur [Kaggle](https://www.kaggle.com/). Il s’inscrit dans le cadre de mes explorations autour de l’Intelligence Artificielle appliquée à la santé.
 
